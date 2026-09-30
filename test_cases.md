@@ -17,6 +17,7 @@
 - Sales trend interactive chart generated.
 - Product performance interactive chart generated.
 - Sales distribution interactive chart generated.
+- Customer segmentation interactive chart generated.
 
 ## Test Case 4 — Dashboard Overview
 - Status: PASS
