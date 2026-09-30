@@ -1,0 +1,1 @@
+Create dashboard_demo.gif after running the dashboard and recording a short screen capture. This placeholder is intentionally not a fake GIF.

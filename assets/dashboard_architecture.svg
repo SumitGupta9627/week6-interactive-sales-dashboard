@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial" font-size="20" text-anchor="middle">
+<rect x="40" y="100" width="180" height="80" rx="12" fill="#e8f0fe" stroke="#333"/>
+<text x="130" y="145">sales_data.csv</text>
+<rect x="290" y="100" width="180" height="80" rx="12" fill="#eaf7ea" stroke="#333"/>
+<text x="380" y="145">Pandas</text>
+<rect x="540" y="100" width="180" height="80" rx="12" fill="#fff4e5" stroke="#333"/>
+<text x="630" y="145">Seaborn</text>
+<rect x="790" y="100" width="170" height="80" rx="12" fill="#f4eaff" stroke="#333"/>
+<text x="875" y="145">Plotly</text>
+<path d="M220 140 L290 140 M470 140 L540 140 M720 140 L790 140" stroke="#333" stroke-width="3" marker-end="url(#a)"/>
+</g>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L10,3 L0,6 Z"/></marker></defs>
+</svg>
